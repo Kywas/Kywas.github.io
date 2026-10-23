@@ -171,6 +171,7 @@ media.net, 8cu5l226o, RESELLER
 bidmachine.io, 59, RESELLER
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 1058378980, RESELLER
+yango-ads.com, 333198527, DIRECT
 waardex.com, 103777, RESELLER
 appnexus.com, 13956, RESELLER, f5ab79cb980f11d1
 singularads.com, 445896, RESELLER
@@ -2351,6 +2352,7 @@ media.net, 8CU1G827Y, RESELLER
 media.net, 8CUF7U34W, RESELLER
 sharethrough.com, 5EQ7ZF1q, RESELLER, d53b998a7bd4ecd2
 improvedigital.com, 2625, RESELLER
+yandex.com, 333198527, DIRECT
 video.unrulymedia.com, 829160295, RESELLER
 caerulus.io, 3320-39849, RESELLER
 bidence.com, d35302328a4b1f129d376f9c2932b0b7, RESELLER
